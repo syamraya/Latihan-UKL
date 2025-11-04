@@ -147,25 +147,25 @@ Request Body:
 ![LOGIN](/screenshoot/uk1.png)
 
 ## Menambah Pengguna ##
-![LOGIN](/screenshoot/ukl2.png)
+![Menambah pengguna](/screenshoot/ukl2.png)
 
 ## Mengubah data Pengguna ##
-![LOGIN](/screenshoot/ukl3.png)
+![Merubah data pengguna](/screenshoot/ukl3.png)
 
 ## Mengambil data Pengguna ##
-![LOGIN](/screenshoot/ukl4.png)
+![Mengambil data pengguna](/screenshoot/ukl4.png)
 
 ## Presensi ##
-![LOGIN](/screenshoot/ukl5.png)
+![Presensi](/screenshoot/ukl5.png)
 
 ## Melihat riwayat presensi ##
-![LOGIN](/screenshoot/ukl6.png)
+![Riwayat presens](/screenshoot/ukl6.png)
 
 ## Melihat Rekap Kehadiran Bulanan ##
-![LOGIN](/screenshoot/ukl7.png)
+![Rekap kehadiran](/screenshoot/ukl7.png)
 
-## nalisis Tingkat Kehadiran ##
-![LOGIN](/screenshoot/ukl8.png)
+## Analisis Tingkat Kehadiran ##
+![Analisis kehadiran](/screenshoot/ukl8.png)
 
 
 
