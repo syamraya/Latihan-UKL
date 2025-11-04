@@ -144,28 +144,28 @@ Endpoint: /api/auth/login
 Method: POST
 Description: Untuk login pengguna dan menghasilkan token autentikasi.
 Request Body:.
-![LOGIN](./screenshoot/uk1.png)
+![LOGIN](./presensi-api/screenshoot/uk1.png)
 
 ## Menambah Pengguna ##
-![Menambah pengguna](./screenshoot/ukl2.png)
+![Menambah pengguna](./presensi-api/screenshoot/ukl2.png)
 
 ## Mengubah data Pengguna ##
-![Merubah data pengguna](./screenshoot/ukl3.png)
+![Merubah data pengguna](./presensi-api/screenshoot/ukl3.png)
 
 ## Mengambil data Pengguna ##
-![Mengambil data pengguna](./screenshoot/ukl4.png)
+![Mengambil data pengguna](./presensi-api/screenshoot/ukl4.png)
 
 ## Presensi ##
-![Presensi](./screenshoot/ukl5.png)
+![Presensi](./presensi-api/screenshoot/ukl5.png)
 
 ## Melihat riwayat presensi ##
-![Riwayat presensi](./screenshoot/ukl6.png)
+![Riwayat presensi](./presensi-api/screenshoot/ukl6.png)
 
 ## Melihat Rekap Kehadiran Bulanan ##
-![Rekap kehadiran](./screenshoot/ukl7.png)
+![Rekap kehadiran](./presensi-api/screenshoot/ukl7.png)
 
 ## Analisis Tingkat Kehadiran ##
-![Analisis kehadiran](./screenshoot/ukl8.png)
+![Analisis kehadiran](./presensi-api/screenshoot/ukl8.png)
 
 
 
