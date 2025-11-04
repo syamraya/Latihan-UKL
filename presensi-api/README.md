@@ -143,7 +143,7 @@ Tujuannya adalah untuk mencatat kehadiran pengguna (siswa atau karyawan), meliha
 Endpoint: /api/auth/login
 Method: POST
 Description: Untuk login pengguna dan menghasilkan token autentikasi.
-Request Body:
+Request Body:.
 ![LOGIN](/screenshoot/uk1.png)
 
 ## Menambah Pengguna ##
@@ -159,7 +159,7 @@ Request Body:
 ![Presensi](/screenshoot/ukl5.png)
 
 ## Melihat riwayat presensi ##
-![Riwayat presens](/screenshoot/ukl6.png)
+![Riwayat presensi](/screenshoot/ukl6.png)
 
 ## Melihat Rekap Kehadiran Bulanan ##
 ![Rekap kehadiran](/screenshoot/ukl7.png)
