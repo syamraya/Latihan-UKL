@@ -1,0 +1,5 @@
+-- AlterTable
+ALTER TABLE `presensi` ADD COLUMN `note` VARCHAR(191) NULL;
+
+-- AlterTable
+ALTER TABLE `user` MODIFY `role` VARCHAR(191) NOT NULL DEFAULT 'SISWA';
